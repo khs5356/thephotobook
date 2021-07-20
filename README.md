@@ -1,2 +1,2 @@
 # thephotobook
-#domain name:thephotobook.ga
+domain name : thephotobook.ga
